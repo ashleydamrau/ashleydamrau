@@ -2,19 +2,27 @@
 
 ## Experience
 
+### Aspiring Front-End Developer / Junior Developer _Quickstart Inc. Bootcamp, since June 2024_
+_Self-led Projects & Bootcamp Training_
+* Gained hands-on experience in HTML, CSS, React, MySQL, and JavaScript by building interactive web applications.
+* Knowledge in Microsoft Word, Exel, and Powerpoint
+* Expanding knowledge in front-end frameworks and best practices through continuous learning.
+
+
+
 ### Melting Pot _Thousand Oaks CA, Since June 2021_
 _Server_
-* Problem solving skills while working in a fast-paced environment.
-* Customer service and providing everything the guest need for their dining experience.
-* Multitasking and active listening for guest to get what they need in an appropriate time.
-* Working well with other employees for a positive work environment.
+* Provided exceptional customer service in a fine-dining, interactive restaurant setting.
+* Managing multiple tables efficiently, ensuring timely service and customer satisfaction.Customer service and providing everything the guest need for their dining experience.
+* Working alongside team members to maintain a smooth and organized dining experience
+
 
 ### Little Calf Cafe and Creamery _Thousand Oaks CA, Since May 2016 to May 2021_
-_Server and Manager_
-* Experience in serving customers, working as a team with coworkers and moving in a fast paced environment.
-* Leadership in a work environment, problem solving skills.
-* Running a restaurant, working cash register, working through schedules and employee questions and concerns.
-* Listening to customers and creating solutions.
+_Manager_
+* Managed daily restaurant operations, ensuring efficiency and high-quality service. 
+* Handled cash management, balanced registers, and ensured accurate financial records. 
+* Prioritized tasks effectively in a fast-paced setting to meet business needs. 
+
 
 ### CReATE Studio _Westlake Village CA, March 2015-June 2018_
 _Art Teacher_
@@ -23,6 +31,11 @@ _Art Teacher_
 * Worked birthday parties, providing help to individual children and running the birthday party as a whole.
 
 ## Education
+
+### Quickstart Inc. BootCamp
+_June 2024-2025_
+_Graduated_
+_HTML, CSS, MySQL, React, Microsoft Word, Exel, PowerPoint_
 
 ### California State University, Northridge
 _Fall 2018-2019_
